@@ -1,0 +1,19 @@
+body {
+    background-color: midnightblue;
+    color: honeydew;
+    text-align: center;
+}
+
+h1 {
+    background-color: aqua;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+li {
+    padding: 10px;
+}
